@@ -135,28 +135,18 @@ p{
     }
   }
   @media(max-width:1440px){
-    .attribution{
-        width: 30rem;
-        height: 50rem;
-        justify-items: center;
-        justify-content: flex-start;
-        align-items: center;
-    }
-    p{
-        text-align: center;
-        font-size: 25px;
-        font-weight: 500;  
+    
+    
+      }
+      a:hover{
+          text-decoration: dashed;
       }
       p:first-of-type{
-          font-size: 30px;
-          font-weight: 800;
-          margin-top: 1rem;
-          margin-bottom: 1rem;
-      }
-      a{
-          text-decoration: none;
-      }
+        font-size: 20px;
+        font-weight: 800;
+        margin-bottom: 0.5rem;
+    }
       
 
-  }
+  
     
